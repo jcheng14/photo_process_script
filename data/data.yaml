@@ -1,0 +1,4 @@
+train: /Users/felixcheng/Documents/ForTree/photo_process_script/data/train.txt
+val: /Users/felixcheng/Documents/ForTree/photo_process_script/data/val.txt
+nc: 1
+names: ['timber_pile']
